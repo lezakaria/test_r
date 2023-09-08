@@ -1,2 +1,2 @@
 # test_r
-La plupart des commits sont l$
+mauvais de faire un git rebase
